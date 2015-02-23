@@ -5,6 +5,7 @@ document.write("hey hey hey hey<br>");
 document.write("hellow<br>");
 document.write("nice try<br>")
 document.write("what<br>");
+document.write("testing of github");
 
 if(4>2){
 	document.write("statement is true");
