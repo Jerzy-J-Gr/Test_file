@@ -6,6 +6,12 @@ document.write("hellow<br>");
 document.write("nice try<br>")
 document.write("what<br>");
 document.write("testing of github");
+document.write("testing atom");
+
+
+if(5>3){
+	document.write("testing word editor")
+}
 
 if(4>2){
 	document.write("statement is true");
